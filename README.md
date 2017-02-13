@@ -4,7 +4,7 @@ This is the repository for the GEDCOM Parser Project for the course 'Agile Metho
 A GEDCOM File(.ged) is a database file with its own unique format and is used for storing Genealogical data. The purpose of the GEDCOM Parser is to parse and read the .ged file, and validate its data for accuracy. This Project is a Team Project and the names of the Team Members are:
 
 - Kunal Dhaimade
-- 
+- Vipulkumar Uplanchwar
 - 
 
 The programming language chosen for this purpose by the Team is Python.
